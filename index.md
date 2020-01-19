@@ -1,5 +1,5 @@
 # About
-Webサイト製作業やってます。
+湘南でカスタムフィールド製造業やってます。
 
 ## Profile
 - deniyung
